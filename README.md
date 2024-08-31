@@ -4,4 +4,4 @@ A Javascript tool to generate different harmonies of a input color. Displays upt
 
 Currently generates Complementary, Triads, Compound, Analogous and Monochrome palettes.
 
-# [Demo](https://tucommenceapousser.github.io/color-palette-generator/docs/))
+# [Demo](https://tucommenceapousser.github.io/color-palette-generator/docs/)
